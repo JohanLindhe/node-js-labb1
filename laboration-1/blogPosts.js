@@ -35,7 +35,8 @@ function startSida(req){
         fil = 'index.html'; //om get är startsidan läses index.html in till variabeln fil.
        }
     else
-    
+    console.log("hello world");
 
-    }
+}
+
 }
